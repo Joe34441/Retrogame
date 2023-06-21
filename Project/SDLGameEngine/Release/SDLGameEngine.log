@@ -1,0 +1,19 @@
+﻿  PlayScreen.cpp
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(117,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(117,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(118,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(118,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(212,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(238,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(264,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(290,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(316,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(744,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(744,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(754,146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\SDLGameEngine\source\PlayScreen.cpp(754,124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 849 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDLGameEngine.vcxproj -> D:\GitHub\GitHub\ct4102-assignment-2-retrogame-Joe34441\SDLGameEngine\Release\SDLGameEngine.exe
